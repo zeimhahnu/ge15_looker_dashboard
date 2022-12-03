@@ -1,0 +1,263 @@
+state,party,ethnicity,sex,SUM of result
+Johor,BARISAN NASIONAL (BN),bumiputera,female,2
+Johor,BARISAN NASIONAL (BN),,male,5
+Johor,BARISAN NASIONAL (BN),chinese,female,0
+Johor,BARISAN NASIONAL (BN),,male,2
+Johor,BARISAN NASIONAL (BN),indian,male,0
+Johor,BEBAS (BEBAS),bumiputera,male,0
+Johor,BEBAS (BEBAS),indian,male,0
+Johor,IKATAN DEMOKRATIK MALAYSIA (MUDA),bumiputera,male,1
+Johor,IKATAN DEMOKRATIK MALAYSIA (MUDA),chinese,male,0
+Johor,PAKATAN HARAPAN (PH),bumiputera,female,2
+Johor,PAKATAN HARAPAN (PH),,male,6
+Johor,PAKATAN HARAPAN (PH),chinese,female,1
+Johor,PAKATAN HARAPAN (PH),,male,4
+Johor,PAKATAN HARAPAN (PH),indian,male,1
+Johor,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+Johor,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+Johor,PARTI RAKYAT MALAYSIA (PRM),bumiputera,male,0
+Johor,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+Johor,PERIKATAN NASIONAL (PN),bumiputera,female,0
+Johor,PERIKATAN NASIONAL (PN),,male,2
+Johor,PERIKATAN NASIONAL (PN),chinese,male,0
+Johor,PERIKATAN NASIONAL (PN),indian,male,0
+Kedah,BARISAN NASIONAL (BN),bumiputera,female,0
+Kedah,BARISAN NASIONAL (BN),,male,0
+Kedah,BARISAN NASIONAL (BN),chinese,male,0
+Kedah,BARISAN NASIONAL (BN),indian,male,0
+Kedah,BEBAS (BEBAS),bumiputera,male,0
+Kedah,BEBAS (BEBAS),indian,male,0
+Kedah,PAKATAN HARAPAN (PH),bumiputera,female,0
+Kedah,PAKATAN HARAPAN (PH),,male,1
+Kedah,PAKATAN HARAPAN (PH),chinese,male,0
+Kedah,PAKATAN HARAPAN (PH),indian,male,0
+Kedah,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,male,0
+Kedah,PARTI RAKYAT MALAYSIA (PRM),chinese,male,0
+Kedah,PARTI WARISAN SABAH (WARISAN),bumiputera,female,0
+Kedah,PARTI WARISAN SABAH (WARISAN),,male,0
+Kedah,PERIKATAN NASIONAL (PN),bumiputera,male,13
+Kedah,PERIKATAN NASIONAL (PN),chinese,male,0
+Kelantan,BARISAN NASIONAL (BN),bumiputera,female,0
+Kelantan,BARISAN NASIONAL (BN),,male,0
+Kelantan,BEBAS (BEBAS),bumiputera,male,0
+Kelantan,PAKATAN HARAPAN (PH),bumiputera,female,0
+Kelantan,PAKATAN HARAPAN (PH),,male,0
+Kelantan,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),bumiputera,male,0
+Kelantan,PARTI ISLAM SE MALAYSIA (PAS),bumiputera,female,2
+Kelantan,PARTI ISLAM SE MALAYSIA (PAS),,male,12
+Kelantan,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+Kelantan,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+Kelantan,PARTI RAKYAT MALAYSIA (PRM),bumiputera,male,0
+Kelantan,PARTI RAKYAT MALAYSIA (PRM),chinese,male,0
+Kelantan,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+Melaka,BARISAN NASIONAL (BN),bumiputera,male,0
+Melaka,BARISAN NASIONAL (BN),chinese,male,0
+Melaka,BEBAS (BEBAS),bumiputera,male,0
+Melaka,IKATAN DEMOKRATIK MALAYSIA (MUDA),bumiputera,male,0
+Melaka,PAKATAN HARAPAN (PH),bumiputera,female,0
+Melaka,PAKATAN HARAPAN (PH),,male,2
+Melaka,PAKATAN HARAPAN (PH),chinese,male,1
+Melaka,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,male,0
+Melaka,PERIKATAN NASIONAL (PN),bumiputera,female,1
+Melaka,PERIKATAN NASIONAL (PN),,male,2
+Negeri Sembilan,BARISAN NASIONAL (BN),bumiputera,male,5
+Negeri Sembilan,BARISAN NASIONAL (BN),chinese,female,0
+Negeri Sembilan,BARISAN NASIONAL (BN),,male,0
+Negeri Sembilan,BARISAN NASIONAL (BN),indian,male,0
+Negeri Sembilan,BEBAS (BEBAS),bumiputera,male,0
+Negeri Sembilan,PAKATAN HARAPAN (PH),bumiputera,female,0
+Negeri Sembilan,PAKATAN HARAPAN (PH),,male,1
+Negeri Sembilan,PAKATAN HARAPAN (PH),chinese,male,2
+Negeri Sembilan,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,male,0
+Negeri Sembilan,PARTI SOSIALIS MALAYSIA (PSM),indian,male,0
+Negeri Sembilan,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+Negeri Sembilan,PERIKATAN NASIONAL (PN),bumiputera,male,0
+Negeri Sembilan,PERIKATAN NASIONAL (PN),chinese,male,0
+Pahang,BARISAN NASIONAL (BN),bumiputera,female,0
+Pahang,BARISAN NASIONAL (BN),,male,5
+Pahang,BARISAN NASIONAL (BN),chinese,male,0
+Pahang,BEBAS (BEBAS),bumiputera,male,0
+Pahang,BEBAS (BEBAS),chinese,male,0
+Pahang,PAKATAN HARAPAN (PH),bumiputera,female,1
+Pahang,PAKATAN HARAPAN (PH),,male,0
+Pahang,PAKATAN HARAPAN (PH),chinese,male,1
+Pahang,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+Pahang,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+Pahang,PERIKATAN NASIONAL (PN),bumiputera,female,1
+Pahang,PERIKATAN NASIONAL (PN),,male,6
+Perak,BARISAN NASIONAL (BN),bumiputera,male,2
+Perak,BARISAN NASIONAL (BN),chinese,female,0
+Perak,BARISAN NASIONAL (BN),,male,0
+Perak,BARISAN NASIONAL (BN),indian,male,1
+Perak,BEBAS (BEBAS),bumiputera,male,0
+Perak,BEBAS (BEBAS),chinese,male,0
+Perak,BEBAS (BEBAS),indian,female,0
+Perak,BEBAS (BEBAS),,male,0
+Perak,PAKATAN HARAPAN (PH),bumiputera,female,0
+Perak,PAKATAN HARAPAN (PH),,male,1
+Perak,PAKATAN HARAPAN (PH),chinese,male,7
+Perak,PAKATAN HARAPAN (PH),indian,female,0
+Perak,PAKATAN HARAPAN (PH),,male,3
+Perak,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+Perak,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+Perak,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+Perak,PARTI WARISAN SABAH (WARISAN),chinese,male,0
+Perak,PARTI WARISAN SABAH (WARISAN),indian,male,0
+Perak,PERIKATAN NASIONAL (PN),bumiputera,female,0
+Perak,PERIKATAN NASIONAL (PN),,male,10
+Perak,PERIKATAN NASIONAL (PN),chinese,female,0
+Perak,PERIKATAN NASIONAL (PN),,male,0
+Perak,PERIKATAN NASIONAL (PN),indian,male,0
+Perlis,BARISAN NASIONAL (BN),bumiputera,female,0
+Perlis,BARISAN NASIONAL (BN),,male,0
+Perlis,BEBAS (BEBAS),bumiputera,male,0
+Perlis,PAKATAN HARAPAN (PH),bumiputera,female,0
+Perlis,PAKATAN HARAPAN (PH),,male,0
+Perlis,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,male,0
+Perlis,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+Perlis,PARTI WARISAN SABAH (WARISAN),chinese,male,0
+Perlis,PERIKATAN NASIONAL (PN),bumiputera,male,3
+Pulau Pinang,BARISAN NASIONAL (BN),bumiputera,male,0
+Pulau Pinang,BARISAN NASIONAL (BN),chinese,female,0
+Pulau Pinang,BARISAN NASIONAL (BN),,male,0
+Pulau Pinang,BARISAN NASIONAL (BN),indian,male,0
+Pulau Pinang,BEBAS (BEBAS),bumiputera,male,0
+Pulau Pinang,BEBAS (BEBAS),chinese,male,0
+Pulau Pinang,IKATAN DEMOKRATIK MALAYSIA (MUDA),bumiputera,male,0
+Pulau Pinang,PAKATAN HARAPAN (PH),bumiputera,female,2
+Pulau Pinang,PAKATAN HARAPAN (PH),,male,1
+Pulau Pinang,PAKATAN HARAPAN (PH),chinese,female,1
+Pulau Pinang,PAKATAN HARAPAN (PH),,male,4
+Pulau Pinang,PAKATAN HARAPAN (PH),indian,male,1
+Pulau Pinang,PAKATAN HARAPAN (PH),other,male,1
+Pulau Pinang,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,male,0
+Pulau Pinang,PARTI RAKYAT MALAYSIA (PRM),chinese,male,0
+Pulau Pinang,PARTI RAKYAT MALAYSIA (PRM),other,male,0
+Pulau Pinang,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+Pulau Pinang,PARTI WARISAN SABAH (WARISAN),chinese,male,0
+Pulau Pinang,PERIKATAN NASIONAL (PN),bumiputera,female,1
+Pulau Pinang,PERIKATAN NASIONAL (PN),,male,2
+Pulau Pinang,PERIKATAN NASIONAL (PN),chinese,male,0
+Pulau Pinang,PERIKATAN NASIONAL (PN),indian,male,0
+Pulau Pinang,PERIKATAN NASIONAL (PN),other,male,0
+Sabah,BARISAN NASIONAL (BN),bumiputera,female,1
+Sabah,BARISAN NASIONAL (BN),,male,6
+Sabah,BEBAS (BEBAS),bumiputera,female,0
+Sabah,BEBAS (BEBAS),,male,2
+Sabah,BEBAS (BEBAS),chinese,female,0
+Sabah,BEBAS (BEBAS),,male,0
+Sabah,BEBAS (BEBAS),indian,male,0
+Sabah,IKATAN DEMOKRATIK MALAYSIA (MUDA),bumiputera,male,0
+Sabah,PAKATAN HARAPAN (PH),bumiputera,female,0
+Sabah,PAKATAN HARAPAN (PH),,male,3
+Sabah,PAKATAN HARAPAN (PH),chinese,female,1
+Sabah,PAKATAN HARAPAN (PH),,male,1
+Sabah,PARTI BERSATU RAKYAT SABAH (PBRS),bumiputera,male,0
+Sabah,PARTI GABUNGAN RAKYAT SABAH (GRS),bumiputera,male,5
+Sabah,PARTI GABUNGAN RAKYAT SABAH (GRS),chinese,female,0
+Sabah,PARTI GABUNGAN RAKYAT SABAH (GRS),,male,1
+Sabah,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),bumiputera,female,0
+Sabah,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),,male,1
+Sabah,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),chinese,male,0
+Sabah,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+Sabah,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+Sabah,PARTI PERPADUAN RAKYAT SABAH (PPRS),bumiputera,male,0
+Sabah,PARTI WARISAN SABAH (WARISAN),bumiputera,female,1
+Sabah,PARTI WARISAN SABAH (WARISAN),,male,2
+Sabah,PARTI WARISAN SABAH (WARISAN),chinese,female,0
+Sabah,PARTI WARISAN SABAH (WARISAN),,male,0
+Sabah,PERIKATAN NASIONAL (PN),bumiputera,male,1
+Sarawak,BEBAS (BEBAS),bumiputera,male,0
+Sarawak,BEBAS (BEBAS),chinese,male,0
+Sarawak,GABUNGAN PARTI SARAWAK (GPS),bumiputera,female,5
+Sarawak,GABUNGAN PARTI SARAWAK (GPS),,male,16
+Sarawak,GABUNGAN PARTI SARAWAK (GPS),chinese,male,2
+Sarawak,PAKATAN HARAPAN (PH),bumiputera,female,0
+Sarawak,PAKATAN HARAPAN (PH),,male,0
+Sarawak,PAKATAN HARAPAN (PH),chinese,female,0
+Sarawak,PAKATAN HARAPAN (PH),,male,1
+Sarawak,PARTI BANGSA MALAYSIA (PBM),chinese,male,1
+Sarawak,PARTI BANSA DAYAK SARAWAK (PBDS),bumiputera,female,0
+Sarawak,PARTI BANSA DAYAK SARAWAK (PBDS),,male,0
+Sarawak,PARTI BUMI KENYALANG (PBK),chinese,male,0
+Sarawak,PARTI SARAWAK BERSATU (PSB),bumiputera,female,0
+Sarawak,PARTI SARAWAK BERSATU (PSB),,male,0
+Sarawak,PARTI SARAWAK BERSATU (PSB),chinese,female,0
+Sarawak,PARTI SARAWAK BERSATU (PSB),,male,0
+Sarawak,PARTI SEDAR RAKYAT SARAWAK (SEDAR),bumiputera,male,0
+Sarawak,PARTI TINDAKAN DEMOKRATIK (DAP),bumiputera,male,1
+Sarawak,PARTI TINDAKAN DEMOKRATIK (DAP),chinese,female,1
+Sarawak,PARTI TINDAKAN DEMOKRATIK (DAP),,male,3
+Sarawak,PERIKATAN NASIONAL (PN),bumiputera,male,1
+Selangor,BARISAN NASIONAL (BN),bumiputera,female,0
+Selangor,BARISAN NASIONAL (BN),,male,0
+Selangor,BARISAN NASIONAL (BN),chinese,female,0
+Selangor,BARISAN NASIONAL (BN),,male,0
+Selangor,BARISAN NASIONAL (BN),indian,female,0
+Selangor,BARISAN NASIONAL (BN),,male,0
+Selangor,BEBAS (BEBAS),bumiputera,female,0
+Selangor,BEBAS (BEBAS),,male,0
+Selangor,BEBAS (BEBAS),chinese,male,0
+Selangor,BEBAS (BEBAS),indian,male,0
+Selangor,IKATAN DEMOKRATIK MALAYSIA (MUDA),bumiputera,female,0
+Selangor,PAKATAN HARAPAN (PH),bumiputera,female,2
+Selangor,PAKATAN HARAPAN (PH),,male,8
+Selangor,PAKATAN HARAPAN (PH),chinese,female,1
+Selangor,PAKATAN HARAPAN (PH),,male,3
+Selangor,PAKATAN HARAPAN (PH),indian,male,1
+Selangor,PAKATAN HARAPAN (PH),other,male,1
+Selangor,PARTI BANGSA MALAYSIA (PBM),bumiputera,female,0
+Selangor,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+Selangor,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+Selangor,PARTI RAKYAT MALAYSIA (PRM),bumiputera,female,0
+Selangor,PARTI RAKYAT MALAYSIA (PRM),,male,0
+Selangor,PARTI RAKYAT MALAYSIA (PRM),chinese,male,0
+Selangor,PARTI RAKYAT MALAYSIA (PRM),indian,male,0
+Selangor,PARTI UTAMA RAKYAT (PUR),chinese,male,0
+Selangor,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+Selangor,PARTI WARISAN SABAH (WARISAN),chinese,male,0
+Selangor,PERIKATAN NASIONAL (PN),bumiputera,female,1
+Selangor,PERIKATAN NASIONAL (PN),,male,5
+Selangor,PERIKATAN NASIONAL (PN),chinese,male,0
+Selangor,PERIKATAN NASIONAL (PN),indian,male,0
+Terengganu,BARISAN NASIONAL (BN),bumiputera,male,0
+Terengganu,BEBAS (BEBAS),bumiputera,male,0
+Terengganu,PAKATAN HARAPAN (PH),bumiputera,male,0
+Terengganu,PARTI ISLAM SE MALAYSIA (PAS),bumiputera,male,8
+Terengganu,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+Terengganu,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+W.P. Kuala Lumpur,BARISAN NASIONAL (BN),bumiputera,male,1
+W.P. Kuala Lumpur,BARISAN NASIONAL (BN),chinese,male,0
+W.P. Kuala Lumpur,BARISAN NASIONAL (BN),indian,male,0
+W.P. Kuala Lumpur,BEBAS (BEBAS),bumiputera,female,0
+W.P. Kuala Lumpur,BEBAS (BEBAS),,male,0
+W.P. Kuala Lumpur,BEBAS (BEBAS),chinese,female,0
+W.P. Kuala Lumpur,BEBAS (BEBAS),,male,0
+W.P. Kuala Lumpur,BEBAS (BEBAS),indian,male,0
+W.P. Kuala Lumpur,PAKATAN HARAPAN (PH),bumiputera,female,1
+W.P. Kuala Lumpur,PAKATAN HARAPAN (PH),,male,3
+W.P. Kuala Lumpur,PAKATAN HARAPAN (PH),chinese,female,2
+W.P. Kuala Lumpur,PAKATAN HARAPAN (PH),,male,3
+W.P. Kuala Lumpur,PAKATAN HARAPAN (PH),indian,male,1
+W.P. Kuala Lumpur,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,female,0
+W.P. Kuala Lumpur,PARTI PEJUANG TANAHAIR (PEJUANG),,male,0
+W.P. Kuala Lumpur,PARTI RAKYAT MALAYSIA (PRM),bumiputera,male,0
+W.P. Kuala Lumpur,PARTI WARISAN SABAH (WARISAN),chinese,male,0
+W.P. Kuala Lumpur,PARTI WARISAN SABAH (WARISAN),indian,male,0
+W.P. Kuala Lumpur,PERIKATAN NASIONAL (PN),bumiputera,female,0
+W.P. Kuala Lumpur,PERIKATAN NASIONAL (PN),,male,0
+W.P. Kuala Lumpur,PERIKATAN NASIONAL (PN),chinese,female,0
+W.P. Kuala Lumpur,PERIKATAN NASIONAL (PN),,male,0
+W.P. Kuala Lumpur,PERIKATAN NASIONAL (PN),indian,male,0
+W.P. Labuan,BARISAN NASIONAL (BN),bumiputera,male,0
+W.P. Labuan,PAKATAN HARAPAN (PH),bumiputera,male,0
+W.P. Labuan,PARTI BANGSA MALAYSIA (PBM),bumiputera,female,0
+W.P. Labuan,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,male,0
+W.P. Labuan,PARTI WARISAN SABAH (WARISAN),bumiputera,male,0
+W.P. Labuan,PERIKATAN NASIONAL (PN),bumiputera,male,1
+W.P. Putrajaya,BARISAN NASIONAL (BN),bumiputera,male,0
+W.P. Putrajaya,BEBAS (BEBAS),bumiputera,male,0
+W.P. Putrajaya,BEBAS (BEBAS),chinese,female,0
+W.P. Putrajaya,PAKATAN HARAPAN (PH),bumiputera,female,0
+W.P. Putrajaya,PARTI PEJUANG TANAHAIR (PEJUANG),bumiputera,male,0
+W.P. Putrajaya,PERIKATAN NASIONAL (PN),bumiputera,male,1
